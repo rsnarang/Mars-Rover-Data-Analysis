@@ -1,9 +1,10 @@
 # Mars-Rover-Data-Analysis
 This repository contains python scripts to analyze some data collected by the Chemcam instrument on Curiosity Mars Rover.
 
+------------------------------------------------------------------------------------------
 fullread.py
 
-This script was used to take in all of the MOC files provided by Ralf and create a separate csv file that contains the Chemcam team's results for data analysis. This separate csv file called Ultmoc6.csv is what I used for my final plots when I plotted my peak areas against the Chemcam team's results.
+This script was used to take in all of the MOC files provided and create a separate csv file that contains the Chemcam team's results for data analysis. This separate csv file called Ultmoc6.csv is what I used for my final plots when I plotted my peak areas against the Chemcam team's results.
 -------------------------------------------------------------------------------------------
 NameCleaner.py
 
