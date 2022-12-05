@@ -2,7 +2,7 @@ import os
 from os.path import join
 # import glob
 
-path = '/Users/rnarang/desktop/research/rdr2'
+path = '/Users/[user]/desktop/research/rdr2'
 for fname in os.listdir(path):
     dst = str(fname[4:12]) + '.csv'
     src = fname
