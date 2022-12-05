@@ -2,8 +2,8 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-path2 = '/Users/rnarang/desktop/research/rdr3/'
-pathmoc = '/Users/rnarang/desktop/research/Moc2/'
+path2 = '/Users/[user]/desktop/research/rdr3/'
+pathmoc = '/Users/[user]/desktop/research/Moc2/'
 
 x = []
 y = []
