@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 
-path = '/Users/rnarang/desktop/research/CCdata/'
-path2 = '/Users/rnarang/desktop/research/rdr2/'
+path = '/Users/[user]/desktop/research/CCdata/'
+path2 = '/Users/[user]/desktop/research/rdr2/'
 
 
 for fname in os.listdir(path):
